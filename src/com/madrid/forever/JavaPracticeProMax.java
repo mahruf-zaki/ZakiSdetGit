@@ -14,7 +14,7 @@ public class JavaPracticeProMax {
         //System.out.println(divisionPracticeTwo (90, 560));
         //System.out.println(StringPractice());
         //System.out.println(StringPracticeTwo());
-        concatenation();
+        //concatenation();
     }
 
     //variablePractice
@@ -57,12 +57,13 @@ public static String StringPractice(){
 
 }
 
+//StringPractice
 public static String StringPracticeTwo(){
         String Ramos = "best defender ever";
         String Carlos = "awesomeJersey";
         return Ramos+Carlos;
 }
-
+//concatenationPractice
 public static void concatenation(){
         String Hungry = "I love MY";
         String Hangry = " Dominos Pizza";

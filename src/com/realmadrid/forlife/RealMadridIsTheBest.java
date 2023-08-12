@@ -12,7 +12,7 @@ public class RealMadridIsTheBest {
         //add(10000, 190000);
         //System.out.println(helloString());
         //System.out.println(divisionPractice(500, 50));
-        concatenationPractice();
+        //concatenationPractice();
     }
 
     //variablePractices;
@@ -55,7 +55,7 @@ public static String helloString (){
         String awesome = " bigJet";
         String concatResult = superb + awesome;
         System.out.println(concatResult);
-        System.out.println(concatResult + 100+200);
+        System.out.println(concatResult + 100);
 
     }
 }
