@@ -9,7 +9,8 @@ public class StringPracticeSession {
         //System.out.println(myString.toLowerCase());
         //System.out.println(myString.hashCode());
         //String newYork = myString.toUpperCase();
-        StringPrac();
+        //StringPrac();
+        // morePractice();
     }
 
     public static void StringPrac(){
@@ -51,7 +52,18 @@ public class StringPracticeSession {
         //System.out.println(ismaili.replace(shia, ismaili));
         //System.out.println(semiStory.toString());
         //System.out.println(sunni.isBlank());
-        System.out.println(Statement.toCharArray());
+        //System.out.println(Statement.toCharArray());
 
     }
+
+    public static void morePractice(){
+        String burjAlKhalifa = "76600000";
+        String cosmosTower = "877";
+        String santafe = "900";
+        String georgia = "burjAlKhalifa + cosmosTower+ santafe";
+        //System.out.println(georgia);
+        //System.out.println(burjAlKhalifa.equals(cosmosTower));
+        //System.out.println(burjAlKhalifa.length());
+    }
+
 }
